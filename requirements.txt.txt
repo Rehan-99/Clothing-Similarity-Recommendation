@@ -1,0 +1,8 @@
+pandas
+numpy
+gensim
+nltk
+selenium
+BeautifulSoup
+urllib.parse
+requests
