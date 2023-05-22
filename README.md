@@ -3,7 +3,9 @@
 Clothing Similarity Recommendations
 
 This project aims to provide ranked suggestions for clothing items based on similarity to a given text query. It combines web scraping techniques to gather clothing descriptions and product links from the Nike and Levi's websites, preprocesses the text data, and then builds a similarity model using the TF-IDF (Term Frequency-Inverse Document Frequency) approach. The function is deployed on Google Cloud Run, allowing users to make API requests with a text string and receive JSON responses with ranked suggestions.
-Project Structure
+
+
+## Project Structure
 
 The project is divided into several steps:
 
