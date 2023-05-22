@@ -7,9 +7,7 @@ This project aims to provide ranked suggestions for clothing items based on simi
 
 ## Project Structure
 
-The project is divided into several steps:
-
-    Web Scraping: The data is scraped from the Nike and Levi's websites using Python and the libraries such as BeautifulSoup and Selenium. The scraped information includes clothing descriptions and product links.
+The project is divided into several steps: Web Scraping: The data is scraped from the Nike and Levi's websites using Python and the libraries such as BeautifulSoup and Selenium. The scraped information includes clothing descriptions and product links.
 
     Data Preprocessing: The scraped data is cleaned and preprocessed. The preprocessing steps include converting text to lowercase, removing non-alphanumeric characters, tokenizing the text into words, and removing stopwords.
 
