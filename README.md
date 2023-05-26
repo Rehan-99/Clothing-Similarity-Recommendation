@@ -27,7 +27,10 @@ The project relies on the following libraries:
     gensim
     nltk
     selenium
-    BeautifulSoup
-    urllib.parse
+    BeautifulSoup4
+    fastapi
+    uvicorn 
     requests
+
+
 
